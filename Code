@@ -4,18 +4,3 @@ duration = input("Enter How long you want to wait untill another tab opens: ")
 while True:
     webbrowser.open_new(url)
     time.sleep(int(duration))
-
-
-
-
-Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows 
-
-Python Download: https://www.python.org/downloads/
-
-Install Python first
-
-Then
-
-Copy and paste the first 6 rows, then paste into Pycharm
-
-Finally, Run
